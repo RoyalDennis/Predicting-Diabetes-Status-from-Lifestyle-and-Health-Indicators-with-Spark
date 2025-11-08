@@ -1,0 +1,2 @@
+# Predicting-Diabetes-Status-from-Lifestyle-and-Health-Indicators-with-Spark
+This project explores how Apache Spark MLlib can be used to predict diabetes status based on lifestyle and health indicators from a large dataset. The work compares four supervised machine learning algorithms under both single-node (1 VM) and distributed (2 VM) environments, analyzing performance, accuracy, and scalability.
